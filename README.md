@@ -1,6 +1,6 @@
 # C Problem Solving
 
-Practice problems in C that I solved while learning the language. The solutions come from HackerRank and from exercises I did as part of my coursework.
+Practice problems in C that I solved while learning the language.  I did as part of my coursework.
 
 ## Folder layout
 
